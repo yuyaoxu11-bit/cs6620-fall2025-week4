@@ -1,4 +1,4 @@
-"""A simple calculator with basic arithmetic operations."""
+"""Simple calculator with basic arithmetic operations."""
 
 
 def add(a, b):
